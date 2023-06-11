@@ -12,6 +12,7 @@
 - Output file name are path are absolute. Change with every new excel or the output file will be overriden.
 
 ### Testing
+- Have added a sample output.vcf file which was generated via script using sample.xlsx as input.
 - Testing is yet to be done on lastest Andoid and all iOS.
 - Expected to be working with Andriod 11,12. Wild guess as it was working as on June 2023.
 
